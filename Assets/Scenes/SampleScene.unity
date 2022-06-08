@@ -397,7 +397,7 @@ MonoBehaviour:
   radius: 1.32
   height: 1
   segments: 3
-  sides: 2
+  sides: 3
 --- !u!23 &1068901887
 MeshRenderer:
   m_ObjectHideFlags: 0
